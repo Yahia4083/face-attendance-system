@@ -95,7 +95,7 @@ python tools/live_mobile_attendance_kiosk.py
 
 In the kiosk, select **Start Attendance** or press `Space` and follow the head-turn prompt. Press `Q` to exit.
 
-This prototype uses active liveness during attendance. Passive presentation-attack detection is available for offline evaluation. The kiosk uses an administrator session, and live frames are processed without being stored by default. See the [biometric evaluation notes](docs/biometric_security.md) and the [Arabic research protocol](docs/research_experiments_ar.md) for the evaluation workflow and its limitations.
+This prototype uses active liveness during attendance. Passive presentation-attack detection is available for offline evaluation. The kiosk uses an administrator session, and live frames are processed without being stored by default. See the [biometric evaluation notes](docs/biometric_security.md) for the evaluation workflow and its limitations.
 
 ## Tests
 

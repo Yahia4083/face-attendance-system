@@ -92,5 +92,4 @@ node_modules/
 /camera_test*
 /openapi.live.tmp.json
 /output/
-research/.build*/
 storage/models/**/*.onnx
