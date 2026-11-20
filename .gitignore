@@ -92,7 +92,5 @@ node_modules/
 /camera_test*
 /openapi.live.tmp.json
 /output/
-/.codex-finalizer/
-/.codex-pptx-edit/
 research/.build*/
 storage/models/**/*.onnx
